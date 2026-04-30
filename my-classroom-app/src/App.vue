@@ -308,7 +308,7 @@ body { margin: 0; background: var(--primary-bg); font-family: 'Noto Serif TC', s
 /* 考試條帶 */
 .exam-stripe { display: flex; align-items: center; justify-content: space-between; background: #37474f; color: white; padding: 20px 30px; border-radius: 8px; margin-bottom: 15px; }
 
-/* 側邊欄與通用 */
+/* 側邊欄與通用 */  
 .side-panel { width: 320px; background: white; border-radius: 16px; display: flex; flex-direction: column; }
 .panel-header { background: var(--accent); color: white; padding: 15px; text-align: center; font-weight: bold; }
 .scrollable { overflow-y: auto; flex: 1; padding: 15px; }
